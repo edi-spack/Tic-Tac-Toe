@@ -1,0 +1,9 @@
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe.config
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.exe
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\bin\Debug\Tic Tac Toe.pdb
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csprojAssemblyReference.cache
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Form1.resources
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.exe
+C:\Users\edisp\source\repos\Tic Tac Toe\Tic Tac Toe\obj\Debug\Tic Tac Toe.pdb
